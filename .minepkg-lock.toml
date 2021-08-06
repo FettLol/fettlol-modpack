@@ -72,11 +72,11 @@ lockfileVersion = 1
 
   [dependencies.appliedenergistics2]
     name = "appliedenergistics2"
-    version = "8.3.0-0.mpkg.1.alpha.2"
+    version = "8.4.0-0.mpkg.1-alpha.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "2740d0d50a0d5285db609a74672f4bd2f57681118152acd8503e60a9d3dcc527"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/appliedenergistics2@8.3.0-0.mpkg.1.alpha.2/download"
+    Sha256 = "31b967990bcc4306828ae9fc529fca356528cb24851a6ae2d50455861ae8fea4"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/appliedenergistics2@8.4.0-0.mpkg.1-alpha.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -92,11 +92,11 @@ lockfileVersion = 1
 
   [dependencies.axesareweapons]
     name = "axesareweapons"
-    version = "1.1.2"
+    version = "1.3.0"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "963959610523bfea59a600b4187b3ab5430e8407b38398fc81f1405d65fa306c"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/axesareweapons@1.1.2/download"
+    Sha256 = "4cc649868b719bc461b8ae1650c26918c5d6831faf93b61646abbe54af2285e8"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/axesareweapons@1.3.0/download"
     provider = "minepkg"
     dependend = ""
 
@@ -372,7 +372,7 @@ lockfileVersion = 1
 
   [dependencies.defaultsettings]
     name = "defaultsettings"
-    version = "60e4b837-1afc2"
+    version = "60ef0f41-1afc2"
     type = "mod"
     ipfsHash = ""
     Sha256 = ""
@@ -452,21 +452,21 @@ lockfileVersion = 1
 
   [dependencies.fabric]
     name = "fabric"
-    version = "0.34.1"
+    version = "0.37.1-1.16.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "85684c19837fc5028b47278e23fae7391e4e40f4d88cdbe927f8202ab6f3b63e"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.34.1/download"
+    Sha256 = "c72f214a7143c80c72d4480069a3b2162ce9cee5974844366549ab338730ed46"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric@0.37.1-1.16.mpkg.1/download"
     provider = "minepkg"
-    dependend = "betternether"
+    dependend = "spark"
 
   [dependencies.fabric-language-kotlin]
     name = "fabric-language-kotlin"
-    version = "1.6.0-0.mpkg.1.kotlin.1.5.0"
+    version = "1.6.3-0.mpkg.1+kotlin.1.5.21"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "ed438051a822b9bd510af84d510c37496b8e221186acfd37aee014c4220a783b"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric-language-kotlin@1.6.0-0.mpkg.1.kotlin.1.5.0/download"
+    Sha256 = "a6d5bdf683635c56dbbf5cdfeb9a2b34b427db9af348bd6b7717437d0ccdd76a"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/fabric-language-kotlin@1.6.3-0.mpkg.1+kotlin.1.5.21/download"
     provider = "minepkg"
     dependend = ""
 
@@ -522,11 +522,11 @@ lockfileVersion = 1
 
   [dependencies.geckolib]
     name = "geckolib"
-    version = "3.0.36-0.mpkg.1"
+    version = "3.0.45-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "47c8e235ce5d3365d4ff585ceb4904331b6b89cc7bbf89d5a63cabb3a7341281"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.36-0.mpkg.1/download"
+    Sha256 = "5b83578777330a1c72604c99de0ac178cfa3d1bfbb7599418bc43e95a1c1c9ca"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/geckolib@3.0.45-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -610,23 +610,13 @@ lockfileVersion = 1
     provider = "minepkg"
     dependend = ""
 
-  [dependencies.iris]
-    name = "iris"
-    version = "1.0.1-0.rc1.mpkg.1"
-    type = "mod"
-    ipfsHash = ""
-    Sha256 = "30aade3aa6e56620956a37333efb209de98827db6695a7d4bbe679d6eba1da94"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/iris@1.0.1-0.rc1.mpkg.1/download"
-    provider = "minepkg"
-    dependend = ""
-
   [dependencies.keepheadnames]
     name = "keepheadnames"
-    version = "1.2.2"
+    version = "1.4.0-1.16"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "2646725f7642b34a2df5f1134bed14e1900a8a6317340189c29c766661074dcb"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/keepheadnames@1.2.2/download"
+    Sha256 = "8a117c27bd81faf86e147cf15471a7915fca15e64cd582855ec29793af6410f4"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/keepheadnames@1.4.0-1.16/download"
     provider = "minepkg"
     dependend = ""
 
@@ -652,11 +642,11 @@ lockfileVersion = 1
 
   [dependencies.lightoverlay]
     name = "lightoverlay"
-    version = "5.8.0-0.mpkg.1"
+    version = "5.8.1-0.mpkg.2"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "ea213564cc6e89b5c0a1313ef496bba756fac110640378377c18742c5b571c33"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/lightoverlay@5.8.0-0.mpkg.1/download"
+    Sha256 = "8c089557fce1ab3d15dd10944aecac42cac159cafa505c5f0ad65c85c2b86cbf"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/lightoverlay@5.8.1-0.mpkg.2/download"
     provider = "minepkg"
     dependend = ""
 
@@ -942,11 +932,11 @@ lockfileVersion = 1
 
   [dependencies.roughlyenoughitems]
     name = "roughlyenoughitems"
-    version = "5.11.218-0.mpkg.1"
+    version = "5.12.248-0.mpkg.2"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "e62e51a178381403aadb618305d016f11dcd970314f2c0328a3b4ad9a316dcb7"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@5.11.218-0.mpkg.1/download"
+    Sha256 = "672628660a090812d3673d4d42a57463cf228a119e612af786c1ea7929c692c3"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/roughlyenoughitems@5.12.248-0.mpkg.2/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1000,15 +990,15 @@ lockfileVersion = 1
     provider = "https"
     dependend = ""
 
-  [dependencies.sodium-iris]
-    name = "sodium-iris"
-    version = "0.2.0-0.iris.mpkg.1"
+  [dependencies.sodium]
+    name = "sodium"
+    version = "0.2.0-0.mpkg.1.next.rev.d87da3c"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "f9ef5a8abc0b33fd9cac840cf537af85abb520cf293601397cfdb6a016fd1391"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/sodium-iris@0.2.0-0.iris.mpkg.1/download"
+    Sha256 = "12f456e7d308192369f6275f8c80aa1e7042647fa60822187d1875e222439180"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/sodium@0.2.0-0.mpkg.1.next.rev.d87da3c/download"
     provider = "minepkg"
-    dependend = "iris"
+    dependend = ""
 
   [dependencies.spark]
     name = "spark"
@@ -1052,11 +1042,11 @@ lockfileVersion = 1
 
   [dependencies.techreborn]
     name = "techreborn"
-    version = "3.8.2"
+    version = "3.8.3-0.mpkg.1"
     type = "mod"
-    ipfsHash = "QmV5bAnoVZ7bnGHYTJsDTNVYX8oRqaWSjtN9bZwY2F26i8"
-    Sha256 = "c26244ea1f1ac4da1abbea627701556601fc6ded7e9fae7bf36d7ad4de89e98b"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/techreborn@3.8.2/download"
+    ipfsHash = ""
+    Sha256 = "95f643df42e277213e21bc1c63ccff2a0dce29c575d3834a2e13a96ddacc885d"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/techreborn@3.8.3-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 
@@ -1212,11 +1202,11 @@ lockfileVersion = 1
 
   [dependencies.wthit]
     name = "wthit"
-    version = "2.10.1-0.mpkg.1"
+    version = "2.10.5-0.mpkg.1"
     type = "mod"
     ipfsHash = ""
-    Sha256 = "0194c261e9ebfc7447f9f05ee34a3687c76be139f285e075fcccc97086b9fe35"
-    url = "https://api.preview.minepkg.io/v1/releases/fabric/wthit@2.10.1-0.mpkg.1/download"
+    Sha256 = "dca139a1aca8ed7e687204e9b63ed27f67d913413704826074bab5902f6d7de3"
+    url = "https://api.preview.minepkg.io/v1/releases/fabric/wthit@2.10.5-0.mpkg.1/download"
     provider = "minepkg"
     dependend = ""
 

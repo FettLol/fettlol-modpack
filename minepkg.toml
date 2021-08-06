@@ -14,7 +14,7 @@ manifestVersion = 0
 # These are global requirements
 [requirements]
   minecraft = "1.16.5"
-  fabric = "*"
+  fabricLoader = "*"
 
 [dependencies]
   adorn = "^1.14.0-0.mpkg.2.beta.1"
@@ -76,7 +76,6 @@ manifestVersion = 0
   illuminations = "https://www.brekitomasson.com/fettlol/mods/illuminations-1.5.jar"
   infinitywaterbucket = "^1.3.0-0.mpkg.1"
   inventory-profiles = "^0.4.2-0.mpkg.1"
-  iris = "^1.0.0-0.rc1.mpkg.1"
   keepheadnames = "^1.2.1"
   lambdynamiclights = "^1.3.4"
   lifts = "^1.1.1-0.mpkg.2.BETA"
@@ -114,6 +113,7 @@ manifestVersion = 0
   simplyimprovedterrain = "https://www.brekitomasson.com/fettlol/mods/SimplyImprovedTerrain-0.3.2.1-Fabric.jar"
   slapmap = "^1.0.1-0.mpkg.1"
   slimyfloor = "https://www.brekitomasson.com/fettlol/mods/slimyfloor-1.0.0%2B1.16.x.jar"
+  sodium = "^0.2.0-0.mpkg.1.next.rev.d87da3c"
   spark = "^1.5.2-0.mpkg.1"
   starlight = "^1.0.0-0.mpkg.1.RC2"
   stoneholm = "https://www.brekitomasson.com/fettlol/mods/stoneholm-1.2.2.jar"
